@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Anthony
 - 👀 I’m interested in building some amazing web applications
--🕹 Gaming is what I love to do when I am not coding
 - 🖥 I would love to collaborate with other full stack developers
 - 🤓 I am a Christian | Husband | Father | Avid Sports Fan {BEAR 🐻 DOWN} | Also an Amazing Cook
 

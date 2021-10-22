@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Anthony
-- 👀 I’m interested in building some amazing web <h1 align="center">Hi 👋, I'm Anthony</h1>
-<h3 align="center">I am a Full Stack Web Developer with a passion for Frontend</h3>
+
 
 
 
@@ -32,10 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chitowncoder&show_icons=true&locale=en" alt="chitowncoder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chitowncoder&" alt="antdon73" /></p>
-- 🖥 I would love to collaborate with other full stack developers
-- 🤓 I am a Christian | Husband | Father | Avid Sports Fan {BEAR 🐻 DOWN} | Also an Amazing Cook
-
-<!---
-antdon73/antdon73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
